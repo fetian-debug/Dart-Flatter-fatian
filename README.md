@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://gekorm.com/dart-windows/" target="_blank">
-<imag alt="تحميل دارت" src="./images/install_dart.gif">
+<img alt="تحميل دارت" src="./images/install_dart.gif" width=250 />
 </a>
 
 <p align="right">
@@ -38,7 +38,7 @@ dart --version
 طباعة اهلا بالعالم 
 </p>
 
-```py
+```
 
 print("اهلا بالعالم");
 
@@ -47,7 +47,7 @@ print("اهلا بالعالم");
 المتغيرات : هى أماكن يتم حجزها في الذاكرة لتخزين البيانات أثناء تشغيل البرنامج. 
 </p>
 
-```py
+```
 
 var name = "fetian";
 var age = 21;
