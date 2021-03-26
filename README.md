@@ -19,7 +19,7 @@
 <a href="https://gekorm.com/dart-windows/" target="_blank" > تنزيل </a> لغة دارت على ويندوز 
 </p>
 
-<a href="https://gekorm.com/dart-windows/" target="_blank"
+<a href="https://gekorm.com/dart-windows/" target="_blank">
 <imag alt="تحميل دارت" src="./images/install_dart.gif">
 </a>
 
@@ -28,20 +28,29 @@
 </p>
 
 ```shell
+
 dart --version
+
 ```
+
 ### اساسيات  لغة دارت
 <p align="right">
 طباعة اهلا بالعالم 
 </p>
-```shell
+
+```py
+
 print("اهلا بالعالم");
+
 ```
 <p align="right">
 المتغيرات : هى أماكن يتم حجزها في الذاكرة لتخزين البيانات أثناء تشغيل البرنامج. 
 </p>
-```shell
+
+```py
+
 var name = "fetian";
 var age = 21;
 print("my name is $name and my age $age");
+
 ```
