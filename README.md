@@ -20,7 +20,7 @@
 </p>
 
 <a href="https://gekorm.com/dart-windows/" target="_blank">
-<img alt="تحميل دارت" src="./images/install_dart.gif" width=250 />
+<img alt="تحميل دارت" src="./images/install_dart.gif" />
 </a>
 
 <p align="right">
@@ -54,3 +54,11 @@ var age = 21;
 print("my name is $name and my age $age");
 
 ```
+
+<pre data-enlighter-language="dart">
+"
+var name = "fetian";
+var age = 21;
+print("my name is $name and my age $age");
+"
+</pre>
